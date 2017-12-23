@@ -1,4 +1,10 @@
 /* fazer o estilo do controlador de gasolina*/
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	background: rgba(191, 191, 187, 0.91);
+}
 
 #formulario{
 	background: #ccc;
